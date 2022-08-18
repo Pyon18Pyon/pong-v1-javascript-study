@@ -4,7 +4,7 @@ This project was completed as part of the Udemy course, [JavaScript Web Project:
 
 ## How to play?
 
-This is a classic Pong Game. The top paddle is a computer and the bottom paddle is a user. All you need to is to move the paddle left to right to catch the ball. If you miss it you lose. Whoever wins a game, the score counter on the left gets updated and the ball resets in the centre. Whichever scores 7 points first will win the game and you have a choice to play again. 
+This is a classic Pong Game. The top paddle is a computer and the bottom paddle is a user. All you need to do is to move the paddle left to right to catch the ball. If you miss it you lose. Whoever wins a game, the score counter on the left gets updated and the ball resets in the centre. Whichever scores 7 points first will win the game and you have a choice to play again. 
 
 ## Key features
 
